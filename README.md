@@ -1,4 +1,4 @@
-# communicating findings finals with PowerBI
+# communicating findings finals with Python
  Explore Ford GoBike Trip dataset to understand user demographics, gender preferences, and time-related patterns. Gain insights for optimizing the bike-sharing service and improving user experience.
 
 <a name="part-ii---(ford-gobike-trip)"></a>**Part II - (Ford gobike trip)[**](#part-ii---\(ford-gobike-trip\))**
